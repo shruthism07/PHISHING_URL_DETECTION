@@ -1,4 +1,4 @@
-from flask import Flask,render_template,request
+from Flask import Flask,render_template,request
 
 import FeatureExtraction
 import pickle
